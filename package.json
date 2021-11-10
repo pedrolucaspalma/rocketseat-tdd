@@ -1,0 +1,15 @@
+{
+  "name": "aula-tdd-rocketseat3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "pedrolucaspalma <pedrolucaspalma@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.16.4",
+    "pg": "7.8.0",
+    "sequelize": "4.42.0"
+  },
+  "devDependencies": {
+    "sequelize-cli": "5.4.0"
+  }
+}
